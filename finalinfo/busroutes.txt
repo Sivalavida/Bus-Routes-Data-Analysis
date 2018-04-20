@@ -1,0 +1,13 @@
+12
+A1=Prince George's Park=Kent Ridge MRT=LT29=UHall=Opp University Health Centre=YIH=Central Library=LT13=AS7=COM2 (CP13)=BIZ 2=Opp PGP Hse No 12=PGP Hse No 7=Prince George's Park
+A1E=Kent Ridge MRT=LT29=Opp University Health Centre=Central Library=BIZ 2=Prince George's Park
+A2=Prince George's Park=PGP Hse No 14 and No 15=PGP Hse No 12=Opp HSSML=Opp NUSS=COM2 (CP13)=Ventus (Opp LT13)=Computer Centre=Opp YIH=Museum=University Health Centre=Opp UHall=S17=Opp Kent Ridge MRT=PGPR
+A2E=Ventus (Opp LT13)=Computer Centre=S17=Opp Kent Ridge MRT
+B1=Kent Ridge Bus Terminal=Computer Centre=Opp YIH=University Town=YIH=Central Library=LT13=AS7=BIZ 2
+B2=Opp HSSML=Opp NUSS=Ventus (Opp LT13)=Computer Centre=Opp YIH=University Town=Raffles Hall=Block EA=Kent Ridge Bus Terminal
+BTC=Kent Ridge Bus Terminal=Kent Vale=Museum=YIH=Central Library=LT13=AS7=BIZ 2=Prince George's Park=College Green Hostel=BTC - Oei Tiong Ham Building=Botanic Gardens MRT=Museum=Block EA=Kent Ridge Bus Terminal
+C=Kent Ridge Bus Terminal=Computer Centre=Opp YIH=Museum=University Health Centre=Opp UHall=S17=LT29=UHall=Opp University Health Centre=Raffles Hall=Block EA=Kent Ridge Bus Terminal
+C (0715hrs - 1000hrs)=Kent Ridge Bus Terminal=Kent Vale=Museum=University Health Centre=Opp UHall=S17=LT29=UHall=Opp University Health Centre=Raffles Hall=Block EA=Kent Ridge Bus Terminal
+D1=Opp HSSML=Opp NUSS=COM2 (CP13)=Ventus (Opp LT13)=Computer Centre=Opp YIH=Museum=University Town=YIH=Central Library=LT13=AS7=COM2 (CP13)=BIZ 2
+D2=Prince George's Park=Kent Ridge MRT=LT29=UHall=Opp University Health Centre=Museum=University Town=University Health Centre=Opp UHall=S17=Opp Kent Ridge MRT=PGPR=Car Park 11 (Biz)
+UT-FoS=University Town=LT29=University Town
